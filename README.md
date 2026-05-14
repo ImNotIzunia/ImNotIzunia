@@ -17,7 +17,7 @@
 
 # ◈ SKILLS ◈
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,go,py,js,ts,react,angular,nodejs,html,css,php,django,flask,laravel,spring,mysql,postgresmongodb,sqlite,elasticsearch,docker,aws,azure,jenkins,githubactions,prometheus,grafana,linux,ubuntu,kali,arch,bash,git,github,gitlab,postman,maven,pytorch,sklearn,arduino,raspberrypi,electron,unrealengine,blender,vscode,idea,pycharm,windows,obsidian&perline=13" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,go,py,js,ts,react,angular,nodejs,html,css,php,django,flask,laravel,spring,mysql,postgres,mongodb,sqlite,elasticsearch,docker,aws,azure,jenkins,githubactions,prometheus,grafana,linux,ubuntu,kali,arch,bash,git,github,gitlab,postman,maven,pytorch,sklearn,arduino,raspberrypi,electron,unrealengine,blender,vscode,idea,pycharm,windows,obsidian&perline=13" />
 
 
 # ◈ HOMELAB ◈
