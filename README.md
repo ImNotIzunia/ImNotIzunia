@@ -17,6 +17,8 @@
 
 # ◈ SKILLS ◈
 
+<img src="https://skillicons.dev/icons?i=c&perline=13" />
+
 <img src="https://skillicons.dev/icons?i=
 c,cpp,cs,java,go,py,
 js,ts,react,angular,nodejs,
