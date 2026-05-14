@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">
+◈ IZUNIA ◈
+</h1>
 
-<!--
-**ImNotIzunia/ImNotIzunia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+[BOOT SEQUENCE INITIATED]
 
-Here are some ideas to get you started:
+> USER..................... ImNotIzunia
+> ROLE..................... Cybersecurity Engineer
+> LOCATION................. FR
+> CURRENT STATE............ ACTIVE
+> MENTAL STABILITY......... QUESTIONABLE
+> LAST INCIDENT............ [REDACTED]
+````
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+# ◈ SKILLS ◈
+
+<img src="https://skillicons.dev/icons?i=
+c,cpp,cs,java,go,py,
+js,ts,react,angular,nodejs,
+html,css,php,django,flask,laravel,spring,
+mysql,postgres,mongodb,sqlite,elasticsearch,
+docker,aws,azure,jenkins,githubactions,prometheus,grafana,
+linux,ubuntu,kali,arch,bash,
+git,github,gitlab,postman,maven,
+pytorch,sklearn,
+arduino,raspberrypi,
+electron,unrealengine,blender,
+vscode,idea,pycharm,windows,obsidian
+&perline=13" />
+
+
+# ◈ HOMELAB ◈
+
+</div>
+
+```txt
+[ HOMELAB // NODE CLUSTER ]
+
+> STATUS: ONLINE · NODES: 5 · UPTIME: [REDACTED]
+
+HYPERVISOR..: Proxmox Cluster
+NETWORK.....: Fortigate / Pi-Hole + vlan segmentation
+MONITORING..: Grafana / Prometheus + cAdvisor
+SERVICES....: Portainer / Wireguard / Nginx Proxy Manager
+AUTOMATION..: Ansible / Jenkins + Github Actions + Watchtower
+SECURITY....: [CLASSIFIED]
+```
+
+
+<div align="center">
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/imnotizunia)
+
+</div>
